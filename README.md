@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meet Jariwala</h1>
 <h3 align="center">A Coding enthusiast and looking forward to learn new technologies</h3>
 
-- 🌱 I’m currently learning **DSA and Full stack Developement**
+- 🌱 I’m currently learning **DSA and Data Science**
 
 - 👯 I’m looking to collaborate on **Several projects**
 
