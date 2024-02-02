@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetjariwala10&" alt="meetjariwala10" /></p>
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65ae4f0b0c548122831bbc3d?variant=light" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65ae4f0b0c548122831bbc3d?variant=light&roadmaps=computer-science%2Cai-data-scientist" alt="roadmap.sh"/></a>
