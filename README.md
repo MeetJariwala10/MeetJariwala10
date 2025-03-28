@@ -1,27 +1,120 @@
 <h1 align="center">Hi 👋, I'm Meet Jariwala</h1>
-<h3 align="center">A Coding enthusiast and looking forward to learn new technologies</h3>
+<h3 align="center">Deep Learning & LLM Enthusiast</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **LLMs**
+- 👯 I’m looking to collaborate on **Data Science, Machine Learning, AI Agents**
+- 📫 How to reach me **work.meetjariwala@gmail.com**
+- ⚡ Fun fact **Always Updated and Curious**
+- ✨ Got any questions? Feel free to get in touch!
 
-- 👯 I’m looking to collaborate on **Several projects**
+---
 
-- 📫 How to reach me **@MeetJariwala10**
-
-- ⚡ Fun fact **Always Happy**
-
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Skills
 <p align="left">
-<a href="https://medium.com/@meetjari05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meetjari05" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/meet_jariwala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meet_jariwala" height="30" width="40" /></a>
+  <code>Python</code> • 
+  <code>Machine Learning</code> • 
+  <code>PyTorch</code> • 
+  <code>AI Agents</code> • 
+  <code>SQL</code> • 
+  <code>Ollama</code> • 
+  <code>ChatGPT</code> • 
+  <code>LangChain</code> • 
+  <code>Data Visualization</code> • 
+  <code>Hugging Face</code>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetjariwala10&show_icons=true&locale=en&layout=compact" alt="meetjariwala10" /></p>
+### 👨‍💻 Work Experience
+**Cognifyz Technologies**  
+*Machine Learning Intern | Jun’24 - Jul’24*  
+- Achieved an R-squared of **0.98** with a machine learning model for restaurant rating predictions using regression algorithms.
+- Analyzed data from **9,500+ restaurants**; identified key urban hotspots with a **40% dominance** of North Indian cuisine.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetjariwala10&show_icons=true&locale=en" alt="meetjariwala10" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetjariwala10&" alt="meetjariwala10" /></p>
+### 🚀 Projects
+**RateRestro** (Jul’24)  
+- Developed an end-to-end data analytics & machine learning solution to predict restaurant ratings, build a recommendation system, and perform location-based analysis.
+- Achieved an R-squared of **0.98** and implemented content-based filtering for personalized restaurant recommendations.
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65ae4f0b0c548122831bbc3d?variant=light&roadmaps=computer-science" alt="roadmap.sh"/></a>
+**InsightSage – AI-powered Meeting Assistant**  
+- Created an AI-powered assistant that leverages data analytics for meeting transcription, recommendation, and analysis.
+- Applied regression algorithms to generate predictive insights and personalize recommendations.
+
+---
+
+### 🎓 Education
+**Sarvajanik College Of Engineering and Technology, India**  
+*B.Tech in Computer Engineering | 2022 – 2026 (Expected)*  
+**CGPA:** 9.94/10  
+
+**Citizen’s Higher Secondary School, India**  
+*Class XII | 2020 - 2022*  
+**Score:** 80%  
+
+**L.P. Savani International School, India**  
+*Class X | 2015 - 2020*  
+**Score:** 87.3%
+
+---
+
+### 🏆 Achievements
+- Completed a specialization course on **Machine Learning** from Stanford University.
+- Shortlisted and participated in **Hack Overflow 3.0** hackathon.
+- Participated in **Google’s GenAI Study Jam** and **Google Arcade**.
+
+---
+
+### ⚡ Positions of Responsibility
+**IoT Club | Club Lead** (Aug’24 - Present)  
+- Led the RoboCar Workshop, engaging participants in designing and building innovative robocars.
+- Coordinated **IoT Nexus – Foundation and Simulations**, featuring interactive sessions and live IoT project demos.
+
+**IEEE Signal Processing Society | Core Team Member** (Mar’24 – Dec’24)  
+- Coordinated and supported various IEEE events through active volunteering.
+
+**NASA Space Apps Challenge | Marketing Team Member** (Jul’24 - Dec’24)  
+- Increased student awareness and participation, resulting in **72 teams from Surat** competing internationally.
+
+---
+
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://medium.com/@meetjariwala10" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  
+  <a href="https://x.com/MeetJari10" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  
+   <a href="https://www.codechef.com/users/meet_jariwala" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meet_jariwala" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <!-- You can add more tool icons as needed -->
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeetJariwala10&show_icons=true&locale=en&layout=compact" alt="MeetJariwala10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeetJariwala10&show_icons=true&locale=en" alt="MeetJariwala10" />
+</p>
+
+<a href="https://roadmap.sh">
+  <img src="https://api.roadmap.sh/v1-badge/wide/65ae4f0b0c548122831bbc3d?variant=light&roadmaps=computer-science" alt="roadmap.sh"/>
+</a>
