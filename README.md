@@ -34,13 +34,16 @@
 ---
 
 ### 🚀 Projects
-**RateRestro** (Jul’24)  
-- Developed an end-to-end data analytics & machine learning solution to predict restaurant ratings, build a recommendation system, and perform location-based analysis.
-- Achieved an R-squared of **0.98** and implemented content-based filtering for personalized restaurant recommendations.
-
-**InsightSage – AI-powered Meeting Assistant**  
-- Created an AI-powered assistant that leverages data analytics for meeting transcription, recommendation, and analysis.
-- Applied regression algorithms to generate predictive insights and personalize recommendations.
+**InsightSage** | *Python, OpenAI Whisper, HuggingFace, Deepseek-r1, Streamlit*						                       (Mar’25)
+- A Diarization-Based Meeting Analyzer with LLM Chatbot To Automate Real-Time Transcription, Insights & Tasks Extraction 
+-	Built a solution to convert audio recordings into actionable transcripts, streamlining post-meeting analysis.
+-	Real-time meeting summaries and task extraction have significantly reduced manual follow-up work.
+  
+**RateRestro** | *Python, NumPy, Pandas, Scikit Learn, Plotly*								       	          (Jul’24)
+- Developed an end-to-end data analytics and machine learning solution addressing three key tasks: predicting restaurant ratings, building a recommendation system, and performing location-based analysis.
+-	Achieved an R-squared of 0.98 using regression algorithms to predict restaurant ratings.
+-	Implemented content-based filtering for personalized restaurant recommendations based on user preferences.
+-	Analyzed over 9,500 restaurants; a 40% dominance of North Indian cuisine identified key urban hotspots for expansion.
 
 ---
 
