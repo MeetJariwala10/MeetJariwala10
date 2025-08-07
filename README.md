@@ -56,6 +56,6 @@
 <p></p>
 ● Participated in Google’s GenAI Study Jam 2024 and Google Arcade 2024. 
 <p></p>
-● Participated in the NASA Space Apps Hackathon 2024.- Completed a specialization course on **Machine Learning** from Stanford University.
+● Participated in the NASA Space Apps Hackathon 2024.- Completed a specialization course onMachine Learning from Stanford University.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
