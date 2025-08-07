@@ -59,18 +59,4 @@
 <p></p>
 ● Participated in the NASA Space Apps Hackathon 2024.- Completed a specialization course on **Machine Learning** from Stanford University.
 
----
-
-### ⚡ Positions of Responsibility
-**IoT Club | Club Lead** (Aug’24 - Present)  
-- Led the RoboCar Workshop, engaging participants in designing and building innovative robocars.
-- Coordinated **IoT Nexus – Foundation and Simulations**, featuring interactive sessions and live IoT project demos.
-
-**IEEE Signal Processing Society | Core Team Member** (Mar’24 – Dec’24)  
-- Coordinated and supported various IEEE events through active volunteering.
-
-**NASA Space Apps Challenge | Marketing Team Member** (Jul’24 - Dec’24)  
-- Increased student awareness and participation, resulting in **72 teams from Surat** competing internationally.
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
